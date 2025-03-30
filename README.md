@@ -1,1 +1,1 @@
-#This us my initial days learning git 
+#This is my initial days learning git 
